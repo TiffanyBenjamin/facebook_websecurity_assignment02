@@ -6,31 +6,31 @@ Time spent: **36** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] 1. Import the Starting Database:
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-The following advanced user stories are optional:
-
-- [ ] ...
+- [ ] 1. Import the Starting Database
+- [ ] 2. Set Up the Starting Code
+- [ ] 3. Staff CMS for Users
+- [ ] 4. Staff CMS for Salespeople
+- [ ] 5. Staff CMS for States
+- [ ] 6. Staff CMS for Territories
+- [ ] 7. Validations
+- [ ] 8. Sanitization
+- [ ] 9. Penetration Testing
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Assignment02.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most difficult part of this assingmnet was completing tasks 6, 7, 8, and 9. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Tiffany Benjamin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
